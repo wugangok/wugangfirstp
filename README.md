@@ -1,2 +1,2 @@
 # wugangfirstp
-测试拉去github2.37
+测试拉取github2.37
